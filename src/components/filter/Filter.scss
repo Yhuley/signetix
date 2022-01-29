@@ -1,0 +1,13 @@
+.filter {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(234, 234, 245);
+    padding: 20px;
+    gap: 10px;
+    margin-bottom: 50px;
+
+    .checkboxes {
+        display: flex;
+        gap: 30px;
+    }
+}

@@ -1,0 +1,352 @@
+[
+    {
+      "address": {
+        "streetName": "Scotch Pine Road",
+        "streetNumber": 51,
+        "city": "Wellesley",
+        "county": "Norfolk",
+        "stateOrProvince": "MA",
+        "postalCode": "02481",
+        "unitNumber": null,
+        "display": "51 Scotch Pine Road"
+      },
+      "bathrooms": 8,
+      "bedrooms": 6,
+      "buildingAreaTotal": "14,000",
+      "buildingAreaUnits": "Square Feet",
+      "links": {
+        "photos": [
+          {
+            "original": "https://loremflickr.com/780/460/house",
+            "thumbnail": "https://loremflickr.com/380/260/house"
+          }
+        ],
+        "virtualTours": [
+          {
+            "category": "Branded Virtual Tour",
+            "url": "/vt/72810980"
+          },
+          {
+            "category": "Unbranded Virtual Tour",
+            "url": null
+          }
+        ]
+      },
+      "listAgentFullName": "Jill Boudreau Group",
+      "listPrice": "$16,000,000",
+      "status": "Active",
+      "url": "/listing/72810980/",
+      "isFavorite": false,
+      "id": "72810980"
+    },
+    {
+      "address": {
+        "streetName": "Mount Vernon Street",
+        "streetNumber": 63,
+        "city": "Boston",
+        "county": "Suffolk",
+        "stateOrProvince": null,
+        "postalCode": "02108",
+        "unitNumber": "PH-Bulfinch",
+        "display": "63 Mount Vernon Street PH-Bulfinch"
+      },
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "buildingAreaTotal": "1,000",
+      "buildingAreaUnits": "Square Feet",
+      "links": {
+        "photos": [
+          {
+            "original": "https://loremflickr.com/780/460/house",
+            "thumbnail": "https://loremflickr.com/380/260/house"
+          }
+        ],
+        "virtualTours": [
+          {
+            "category": "Branded Virtual Tour",
+            "url": "/vt/72810981"
+          },
+          {
+            "category": "Unbranded Virtual Tour",
+            "url": null
+          }
+        ]
+      },
+      "listAgentFullName": "The Sarkis Team",
+      "listPrice": "$5,000,000",
+      "status": "Active",
+      "url": "/listing/72810981/",
+      "isFavorite": true,
+      "id": "72810981"
+    },
+    {
+      "address": {
+        "streetName": "Beacon Street",
+        "streetNumber": 410,
+        "city": "Boston",
+        "county": "Suffolk",
+        "stateOrProvince": "MA",
+        "postalCode": "02115",
+        "unitNumber": null,
+        "display": "410 Beacon Street"
+      },
+      "bathrooms": 3,
+      "bedrooms": 4,
+      "buildingAreaTotal": "5,500",
+      "buildingAreaUnits": "Square Feet",
+      "links": {
+        "photos": [
+          {
+            "original": "https://loremflickr.com/780/460/house",
+            "thumbnail": "https://loremflickr.com/380/260/house"
+          }
+        ],
+        "virtualTours": [
+          {
+            "category": "Branded Virtual Tour",
+            "url": "/vt/72810982"
+          },
+          {
+            "category": "Unbranded Virtual Tour",
+            "url": "/vt/72810982"
+          }
+        ]
+      },
+      "listAgentFullName": "The Sarkis Team",
+      "listPrice": "$5,600,000",
+      "status": "Active",
+      "url": "/listing/72810982/",
+      "isFavorite": false,
+      "id": "72810982"
+    },
+    {
+      "address": {
+        "streetName": "Banton",
+        "streetNumber": 8,
+        "city": "Boston",
+        "county": "Suffolk",
+        "stateOrProvince": "MA",
+        "postalCode": "02124",
+        "unitNumber": null,
+        "display": "8 Banton"
+      },
+      "bathrooms": 2,
+      "bedrooms": 2,
+      "buildingAreaTotal": "2,500",
+      "buildingAreaUnits": "Square Feet",
+      "links": {
+        "photos": [
+          {
+            "original": "https://loremflickr.com/780/460/house",
+            "thumbnail": "https://loremflickr.com/380/260/house"
+          }
+        ]
+      },
+      "listAgentFullName": "Jacob Yish",
+      "listPrice": "$1,600,000",
+      "status": "Active",
+      "url": "/listing/72810983/",
+      "isFavorite": false,
+      "id": "72810983"
+    },
+    {
+      "address": {
+        "streetName": "Banton",
+        "streetNumber": 8,
+        "city": "Boston",
+        "county": "Suffolk",
+        "stateOrProvince": "MA",
+        "postalCode": "02124",
+        "unitNumber": null,
+        "display": "8 Banton"
+      },
+      "bathrooms": 6,
+      "bedrooms": 6,
+      "buildingAreaTotal": "15,500",
+      "buildingAreaUnits": "Square Feet",
+      "links": {
+        "photos": [
+          {
+            "original": "https://loremflickr.com/780/460/house",
+            "thumbnail": "https://loremflickr.com/380/260/house"
+          }
+        ],
+        "virtualTours": [
+          {
+            "category": "Branded Virtual Tour",
+            "url": null
+          },
+          {
+            "category": "Unbranded Virtual Tour",
+            "url": "/vt/72810984"
+          }
+        ]
+      },
+      "listAgentFullName": "Richard  Cawley",
+      "listPrice": "$25,600,000",
+      "status": "Active",
+      "url": "/listing/72810984/",
+      "isFavorite": false,
+      "id": "72810984"
+    },
+    {
+      "address": {
+        "streetName": "Newbury Street",
+        "streetNumber": 140,
+        "city": "Boston",
+        "county": "Suffolk",
+        "stateOrProvince": "MA",
+        "postalCode": "02116",
+        "unitNumber": null,
+        "display": "140 Newbury Street"
+      },
+      "bathrooms": 2,
+      "bedrooms": 2,
+      "buildingAreaTotal": "4,500",
+      "buildingAreaUnits": "Square Feet",
+      "links": {
+        "photos": [
+          {
+            "original": "https://loremflickr.com/780/460/house",
+            "thumbnail": "https://loremflickr.com/380/260/house"
+          }
+        ],
+        "virtualTours": [
+          {
+            "category": "Branded Virtual Tour",
+            "url": null
+          },
+          {
+            "category": "Unbranded Virtual Tour",
+            "url": "/vt/72810985"
+          }
+        ]
+      },
+      "listAgentFullName": "Richard  Cawley",
+      "listPrice": "$6,600,000",
+      "status": "Sold",
+      "url": "/listing/72810985/",
+      "isFavorite": true,
+      "id": "72810985"
+    },
+    {
+      "address": {
+        "streetName": "Dalton Street",
+        "streetNumber": 1,
+        "city": "Boston",
+        "county": "Suffolk",
+        "stateOrProvince": "MA",
+        "postalCode": "02493",
+        "unitNumber": 3901,
+        "display": "1 Dalton Street 3901"
+      },
+      "bathrooms": 3,
+      "bedrooms": 3,
+      "buildingAreaTotal": "7,500",
+      "buildingAreaUnits": "Square Feet",
+      "links": {
+        "photos": [
+          {
+            "original": "https://loremflickr.com/780/460/house",
+            "thumbnail": "https://loremflickr.com/380/260/house"
+          }
+        ],
+        "virtualTours": [
+          {
+            "category": "Branded Virtual Tour",
+            "url": "/vt/72810987"
+          },
+          {
+            "category": "Unbranded Virtual Tour",
+            "url": "/vt/72810987"
+          }
+        ]
+      },
+      "listAgentFullName": "Richard  Cawley",
+      "listPrice": "$6,866,000",
+      "status": "Sold",
+      "url": "/listing/72810987/",
+      "isFavorite": false,
+      "id": "72810987"
+    },
+    {
+      "address": {
+        "streetName": "Rowes WHARF",
+        "streetNumber": 10,
+        "city": "Boston",
+        "county": "Suffolk",
+        "stateOrProvince": "MA",
+        "postalCode": "02110",
+        "unitNumber": "PH06",
+        "display": "10 Rowes WHARF PH06"
+      },
+      "bathrooms": 5,
+      "bedrooms": 5,
+      "buildingAreaTotal": "12,500",
+      "buildingAreaUnits": "Square Feet",
+      "links": {
+        "photos": [
+          {
+            "original": "https://loremflickr.com/780/460/house",
+            "thumbnail": "https://loremflickr.com/380/260/house"
+          }
+        ],
+        "virtualTours": [
+          {
+            "category": "Branded Virtual Tour",
+            "url": "/vt/72810988"
+          },
+          {
+            "category": "Unbranded Virtual Tour",
+            "url": "/vt/72810988"
+          }
+        ]
+      },
+      "listAgentFullName": "Tracy Campion",
+      "listPrice": "$11,111,000",
+      "status": "Sold",
+      "url": "/listing/72810988/",
+      "isFavorite": false,
+      "id": "72810988"
+    },
+    {
+      "address": {
+        "streetName": "Boylston Street",
+        "streetNumber": 776,
+        "city": "Boston",
+        "county": "Suffolk",
+        "stateOrProvince": "MA",
+        "postalCode": "02199",
+        "unitNumber": "W11A",
+        "display": "776 Boylston Street W11A"
+      },
+      "bathrooms": 5,
+      "bedrooms": 7,
+      "buildingAreaTotal": "15,500",
+      "buildingAreaUnits": "Square Feet",
+      "links": {
+        "photos": [
+          {
+            "original": "https://loremflickr.com/780/460/house",
+            "thumbnail": "https://loremflickr.com/380/260/house"
+          }
+        ],
+        "virtualTours": [
+          {
+            "category": "Branded Virtual Tour",
+            "url": null
+          },
+          {
+            "category": "Unbranded Virtual Tour",
+            "url": null
+          }
+        ]
+      },
+      "listAgentFullName": "Michael Harper",
+      "listPrice": "$9,990,000",
+      "status": "Sold",
+      "url": "/listing/72810989/",
+      "isFavorite": false,
+      "id": "72810989"
+    }
+]
